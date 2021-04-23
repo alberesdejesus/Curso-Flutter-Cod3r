@@ -11,4 +11,4 @@ Após isso, coloque esse conteudo lá dentro
 
 ### Tela de Login via Firebase
 Tela de login usando o Firebase, nessa tela se você já tiver um cadastro pode apenas inseri-lo e clicar em entrar. Caso não possua um cadastro, clique em "ALTERNAR P/ REGISTRAR" e siga o procedimento para a criação
-![Tela de Login](./images/shop_login.jpeg)
+<img src="./images/shop_login.jpeg" width="48">
