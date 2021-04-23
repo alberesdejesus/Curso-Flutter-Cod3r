@@ -3,8 +3,8 @@
 Um projeto do curso de Flutter da Cod3r com o intuito de apresentar novas funcionalidades do Flutter
 
 ## Como usar
-Abra o seu Prompt de Comando, se estiver no Windows, ou seu Terminal, caminhe ate o diretorio desejado para criar o repositório e digite flutter create shop  <<< Pode-se trocar o "shop" pelo o nome que achar melhor 
-Após isso, coloque esse conteudo lá dentro
+Abra o seu Prompt de Comando, se estiver no Windows, ou seu Terminal, caminhe ate o diretório desejado para criar o repositório e digite flutter create shop  <<< Pode-se trocar o "shop" pelo o nome que achar melhor 
+Após isso, coloque esse conteúdo lá dentro
 
 
 ## Screenshots
@@ -22,7 +22,7 @@ Tela inicial sem item           |  Tela inicial com item
 <img src="./images/shop_telainicial.jpeg" height="600">   |  <img src="./images/shop_compraritem.jpeg" height="600">
 
 ### Menu com as opções da aplicação
-Este menu contem as opções de ações e navegação disponiveis. 
+Este menu contém as opções de ações e navegação disponíveis. 
 Exemplos das ações e navegações:
 
 <img src="./images/shop_menu.jpeg" height="600">
@@ -46,13 +46,13 @@ Exemplos das ações e navegações:
 
 
 ### Como adicionar produtos
-Para adicionar produtos é só ir no menu localizado no canto superior esquerdo, conforme mostrado anteriormente acima, e clicar em gerenciar produtos. Ao entrar nessa tela tera um icone de mais(+) no canto superior direito, clicando nele ira abrir a tela de formulario para inserir o item, preecha e clique no icone no canto superior direito.
-OBS: O item adicionado apenas poderá ser gerenciado(editado ou removido) pelo usuario que o colocou, porém poderá ser visto na Loja por todos!
+Para adicionar produtos é só ir no menu localizado no canto superior esquerdo, conforme mostrado anteriormente acima, e clicar em gerenciar produtos. Ao entrar nessa tela terá um ícone de mais (+) no canto superior direito, clicando nele irá abrir a tela de formulário para inserir o item, preencha e clique no ícone no canto superior direito.
+OBS: O item adicionado apenas poderá ser gerenciado (editado ou removido) pelo usuário que o colocou, porém poderá ser visto na Loja por todos!
 
 <table>
   <tr>
-    <td>Exemplo de formulario já preenchido</td>
-    <td>Como ira ficar apos inserir o item</td>
+    <td>Exemplo de formulário já preenchido</td>
+    <td>Como ira ficar após inserir o item</td>
     <td>Tela da Loja com o item cadastrado</td>
     <td>Tela do produto (ao clicar nele em Loja)</td>
   </tr>
@@ -65,7 +65,7 @@ OBS: O item adicionado apenas poderá ser gerenciado(editado ou removido) pelo u
  </table>
 
 ### Fazendo um pedido (simples)
-Para realizar o pedido de compra de um item, basta ir para a Loja e clicar sobre o simbolo do carrinho de compras localizado no item. Fazendo isso, aquele item ira para o seu carrinho de compras e ficara lá ate finalizar a compra.
+Para realizar o pedido de compra de um item, basta ir para a Loja e clicar sobre o símbolo do carrinho de compras localizado no item. Fazendo isso, aquele item irá para o seu carrinho de compras e ficara lá até finalizar a compra.
 Finalizando a compra irá gerar sua ordem de compra.
 
 Exemplos:
@@ -73,7 +73,7 @@ OBS.: Caso ao comprar um item e queira desistir dele por ter clicado errado ou a
 <table>
   <tr>
     <td>Ação ao clicar em comprar</td>
-    <td>Como ira ficar apos inserir o item no carrinho</td>
+    <td>Como ira ficar após inserir o item no carrinho</td>
     <td>Compra finalizada</td>
   </tr>
   <tr>
