@@ -82,3 +82,12 @@ OBS.: Caso ao comprar um item e queira desistir dele por ter clicado errado ou a
     <td><img src="./images/shop_meuspedidos.jpeg" height="600"></td>
   </tr>
  </table>
+
+## Guia
+```
+git clone https://github.com/alberesdejesus/Shop-Flutter.git
+cd Shop-Flutter
+flutter packages get
+flutter run
+```
+Coloque no seu emulador ou Smartphone e aproveite!! 
