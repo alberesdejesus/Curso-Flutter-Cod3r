@@ -14,3 +14,7 @@ Tela de login usando o Firebase, nessa tela se você já tiver um cadastro pode 
 
 <img src="./images/shop_login.jpeg" height="600">
 
+### Tela inicial
+Ao colocar seu login e entrar vai aparecer a tela inicial da aplicação, aonde ira apresentar todos os itens a venda (caso haja algum, como podem ver no exemplo das imagens)
+
+<img src="./images/shop_telainicial.jpeg" height="600"> <img src="./images/shop_compraritem.jpeg" height="600">
